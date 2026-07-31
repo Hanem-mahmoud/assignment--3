@@ -860,6 +860,7 @@ font-weight: 400;
   
    
      .tabele-1{
+        width: 100%;
         overflow-x: auto;
        
     }
@@ -886,7 +887,7 @@ font-weight: 400;
         object-fit: cover;
     }
     .end-container{
-        height: 230vh;
+        height: auto;
     }
     .end-container-1{
         display: flex;
